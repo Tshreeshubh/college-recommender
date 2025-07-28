@@ -256,11 +256,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **Libraries**: scikit-learn, pandas, streamlit, matplotlib
 - **Evaluation Framework**: Custom precision and ranking metrics
 
-## 📞 Contact & Support
-
-- **Issues**: [GitHub Issues](https://github.com/yourusername/college-recommender/issues)
-- **Documentation**: See inline code documentation
-- **Performance**: View evaluation results in `evaluate.py`
+#
 
 ---
 
